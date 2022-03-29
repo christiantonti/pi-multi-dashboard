@@ -1,3 +1,4 @@
+# Default gitignore for python provided by github
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
